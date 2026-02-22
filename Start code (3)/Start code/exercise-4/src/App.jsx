@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <header>
-        <h1>PlacePicker</h1>
+        <h1>PlacePicker </h1>
         <p>Where would you like to go?</p>
       </header>
       <main>
